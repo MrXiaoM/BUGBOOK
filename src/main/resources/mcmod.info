@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bugbook",
+  "name": "BugBook",
+  "description": "Using the writable_book to return the chunk.",
+  "version": "02",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["3Rr0R"],
+  "credits": "",
+  "logoFile": "/bugbook.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
